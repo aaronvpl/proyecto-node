@@ -1,10 +1,4 @@
-# Burger Queen - Backend con Node.js
-
-## Preámbulo
-
-Continuando con el proyecto de [Burger Queen](../04-burger-queen), el cliente
-parece que quedó contento con la interfaz y ahora nos han pedido que completemos
-un prototipo de backend para su sistema de pedidos :tada:.
+# Backend con Node.js
 
 ## Introducción
 
@@ -79,8 +73,6 @@ REMOTE_URL=https://bq-node-cvtbcmdbro.now.sh yarn e2e
 
 Las pruebas _end-to-end_ ya están completas en el _boilerplate_, así que puedes
 usarlas como guía de implementación y checklist de completitud.
-
-## Parte obligatoria
 
 ### CLI
 
@@ -229,16 +221,7 @@ Más info acá: [Autenticación de acceso básica - Wikipedia](https://es.wikipe
 
 90%+ de cobertura en pruebas unitarias.
 
-## Entrega
 
-El proyecto será _entregado_ subiendo tu código a GitHub (`commit`/`push`) y la
-aplicación será desplegada en [zeit.co](https://zeit.co/) y
-[cloud.mongodb.com](https://cloud.mongodb.com/), o servicios equivalentes.
-
-## Evaluación
-
-Te aconsejamos revisar [la rúbrica](https://docs.google.com/spreadsheets/d/e/2PACX-1vSkQy1waRpQ-16sn7VogiDTy-Fz5e7OSZSYUCiHC_bkLAKYewr4L8pWJ_BG210PeULe-TjLScNQQT_x/pubhtml#)
-para ver la descripción detallada de cada _habilidad_ y cada _nivel_.
 
 ### Tech
 
